@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Narender redeploy
+          Learn React Narender redeploy live start
         </a>
       </header>
     </div>
