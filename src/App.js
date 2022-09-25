@@ -17,8 +17,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New Learn React versions updated to latest Narender redeploy live
-          start
+          New Learn React versions updated to latest 1.0.0 Narender redeploy
+          live start
         </a>
       </header>
     </div>
